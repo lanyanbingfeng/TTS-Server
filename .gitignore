@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+downloads/
+server.log
+server.err.log
+.idea/
+.vscode/
